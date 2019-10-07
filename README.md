@@ -1,1 +1,2 @@
 # phpStudy_backdor_check
+在phpstudy目录下执行该脚本即可递归检查
