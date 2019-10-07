@@ -1,1 +1,1 @@
-# phpStudy_backdor_chack
+# phpStudy_backdor_check
