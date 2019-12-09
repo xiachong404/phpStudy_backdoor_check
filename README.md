@@ -1,7 +1,7 @@
 # phpStudy_backdoor_check
-phpStudy_backdoor_check_local.py：本地检查脚本，在phpstudy根目录下执行即可
-phpStudy_backdoor_check_remote.py：远程检查
-phpStudy_backdoor_check_attack.py：远程攻击
+1. phpStudy_backdoor_check_local.py：本地检查脚本，在phpstudy根目录下执行即可
+2. phpStudy_backdoor_check_remote.py：远程检查
+3. phpStudy_backdoor_check_attack.py：远程攻击
 
 
 # phpStudy后门事件链接
